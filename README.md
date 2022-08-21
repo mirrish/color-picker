@@ -1,4 +1,4 @@
-https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56
+Inspiration from: https://ferdychristant.com/color-for-the-color-challenged-884c7aa04a56
 
 # Getting Started with Create React App
 
